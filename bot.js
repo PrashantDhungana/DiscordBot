@@ -1,8 +1,6 @@
 console.log("Hey! This is PrashantBot!");
 require("dotenv").config();
 
-const ytdl = require("ytdl-core");
-
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const fetch = require("node-fetch");
