@@ -12,6 +12,8 @@
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
-    "request": "^2.88.2"
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "ytdl-core": "^4.0.5"
   }
 }
